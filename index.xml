@@ -6,20 +6,18 @@
     <description>Recent content on Dry8r3aD Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 29 Mar 2018 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 22:47:36 +0900</lastBuildDate>
     
 	<atom:link href="https://dry8r3ad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>谈谈微服务架构中的基础设施：Service Mesh与Istio</title>
-      <link>https://dry8r3ad.github.io/2018/03/29/what-is-service-mesh-and-istio/</link>
-      <pubDate>Thu, 29 Mar 2018 12:00:00 +0000</pubDate>
+      <title>Hugo로 기술블로그 만들기</title>
+      <link>https://dry8r3ad.github.io/2020/02/hugo-tech-blog/</link>
+      <pubDate>Sun, 09 Feb 2020 22:47:36 +0900</pubDate>
       
-      <guid>https://dry8r3ad.github.io/2018/03/29/what-is-service-mesh-and-istio/</guid>
-      <description>&lt;h2 id=&#34;微服务架构的演进&#34;&gt;微服务架构的演进&lt;/h2&gt;
-&lt;p&gt;作为一种架构模式，微服务将复杂系统切分为数十乃至上百个小服务，每个服务负责实现一个独立的业务逻辑。这些小服务易于被小型的软件工程师团队所理解和修改，并带来了语言和框架选择灵活性，缩短应用开发上线时间，可根据不同的工作负载和资源要求对服务进行独立缩扩容等优势。&lt;/p&gt;
-&lt;p&gt;另一方面，当应用被拆分为多个微服务进程后，进程内的方法调用变成了了进程间的远程调用。引入了对大量服务的连接、管理和监控的复杂性。&lt;/p&gt;</description>
+      <guid>https://dry8r3ad.github.io/2020/02/hugo-tech-blog/</guid>
+      <description>dddddd WHY THHSDFADFASDFSAFSA</description>
     </item>
     
     <item>
