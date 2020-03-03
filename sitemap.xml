@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dry8r3ad.github.io/categories/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/tags/linux/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/post/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/tags/python/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/post/2020-03-02-python-script-as-linux-systemd-service/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/tags/slack/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/tags/slack-bot/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/tags/systemd/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/tags/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dry8r3ad.github.io/categories/tech/</loc>
+    <lastmod>2020-03-02T22:07:08+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dry8r3ad.github.io/search/placeholder/</loc>
     <priority>0</priority>
   </url>
@@ -18,19 +73,7 @@
   </url>
   
   <url>
-    <loc>https://dry8r3ad.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dry8r3ad.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://dry8r3ad.github.io/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dry8r3ad.github.io/tags/</loc>
   </url>
   
   <url>

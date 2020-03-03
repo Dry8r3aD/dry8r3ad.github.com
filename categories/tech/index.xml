@@ -6,18 +6,18 @@
     <description>Recent content in Tech on Dry8r3aD Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sun, 09 Feb 2020 22:47:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 22:07:08 +0900</lastBuildDate>
     
 	<atom:link href="https://dry8r3ad.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo로 기술블로그 만들기</title>
-      <link>https://dry8r3ad.github.io/2020/02/hugo-tech-blog/</link>
-      <pubDate>Sun, 09 Feb 2020 22:47:36 +0900</pubDate>
+      <title>Python Slack Bot(슬랙봇)을 리눅스 서버에서 돌리기</title>
+      <link>https://dry8r3ad.github.io/post/2020-03-02-python-script-as-linux-systemd-service/</link>
+      <pubDate>Mon, 02 Mar 2020 22:07:08 +0900</pubDate>
       
-      <guid>https://dry8r3ad.github.io/2020/02/hugo-tech-blog/</guid>
-      <description>dddddd WHY THHSDFADFASDFSAFSA</description>
+      <guid>https://dry8r3ad.github.io/post/2020-03-02-python-script-as-linux-systemd-service/</guid>
+      <description>슬랙, 그리고 봇 지금 다니는 회사에서는 사내 메신저로 슬랙(Slack)이라는 서비스를 사용한다. 2016년 정도부터 현재까지 4년정도를 슬랙을 써와서 현재</description>
     </item>
     
   </channel>
